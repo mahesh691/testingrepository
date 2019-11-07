@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="DemoTests">
+<test name="FF browser">
+<parameter name="testBrowser" value="FF" />
+<classes>
+	<class name="com.Balu.MultiBrowser"/>
+</classes>
+</test>
+
+<test name="Chrome browser">
+<parameter name="testBrowser" value="IE" />
+<classes>
+	<class name="com.Balu.MultiBrowser"/>
+</classes>
+</test>
+</suite>
