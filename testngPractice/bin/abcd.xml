@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="Gcreddy1.NewTest"/>
+      <class name="Gcreddy1.NewTest1"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

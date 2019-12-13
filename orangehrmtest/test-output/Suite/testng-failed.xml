@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.Ohrm.Testcases.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="extentReports"/>
+          <include name="tearDown"/>
+          <include name="loginPagevalid"/>
+        </methods>
+      </class> <!-- com.Ohrm.Testcases.LoginPageTest -->
+      <class name="com.Ohrm.Testcases.HomePageTest">
+        <methods>
+          <include name="extentReports"/>
+          <include name="tearDown"/>
+          <include name="homepagevalidatioontest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Ohrm.Testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

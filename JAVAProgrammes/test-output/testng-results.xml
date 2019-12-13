@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7770" started-at="2019-12-10T13:53:10Z" finished-at="2019-12-10T13:53:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7770" started-at="2019-12-10T13:53:10Z" finished-at="2019-12-10T13:53:18Z">
+      <class name="com.SushanthTest.Dateset">
+        <test-method status="PASS" signature="setdate()[pri:0, instance:com.SushanthTest.Dateset@402a079c]" name="setdate" duration-ms="7747" started-at="2019-12-10T13:53:10Z" finished-at="2019-12-10T13:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdate -->
+      </class> <!-- com.SushanthTest.Dateset -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

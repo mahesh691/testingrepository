@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="shopping test" parallel="methods">
+  <test name="Tshirt link">
+    <classes>
+      <class name="com.TestCase.TshirtsPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test  name="Dress link">
+    <classes>
+      <class name="com.TestCase.DressesTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Homepage link">
+    <classes>
+      <class name="com.TestCase.HomepageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="multi session test" thread-count="3" parallel="methods" >
+<test name="multi methods">
+	<classes>
+		<class name="com.Guru99.MultipleSession"/>
+	</classes>
+</test>
+</suite>

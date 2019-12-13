@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.TestCase.DressesTest">
+        <methods>
+          <include name="extentReports"/>
+          <include name="womentestvalidation"/>
+          <include name="setUp"/>
+          <include name="getresult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.TestCase.DressesTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

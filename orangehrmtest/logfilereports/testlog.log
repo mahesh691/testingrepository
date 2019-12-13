@@ -1,0 +1,432 @@
+2019-09-22 13:09:25,437 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:09:25,520 - Log -INFO - logo omage display status :true
+2019-09-22 13:16:15,686 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:16:15,757 - Log -INFO - logo omage display status :true
+2019-09-22 13:16:25,635 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:16:25,654 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 13:19:34,767 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:19:34,853 - Log -INFO - logo omage display status :true
+2019-09-22 13:19:44,418 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:19:44,437 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 13:24:07,406 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:24:07,488 - Log -INFO - logo omage display status :true
+2019-09-22 13:24:07,517 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 13:24:40,917 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:24:41,009 - Log -INFO - logo omage display status :true
+2019-09-22 13:24:41,035 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 13:29:48,095 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:29:48,199 - Log -INFO - logo image display status :true
+2019-09-22 13:29:48,228 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 13:29:53,542 - Log -INFO - entered username and password
+2019-09-22 13:58:56,239 - Log -INFO - orange hrm launched successfully
+2019-09-22 13:58:56,390 - Log -INFO - logo image display status :true
+2019-09-22 13:58:56,414 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 13:58:58,114 - Log -INFO - entered username and password
+2019-09-22 14:04:59,408 - Log -INFO - orange hrm launched successfully
+2019-09-22 14:04:59,487 - Log -INFO - logo image display status :true
+2019-09-22 14:04:59,515 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 14:05:01,307 - Log -INFO - entered username and password
+2019-09-22 14:05:11,339 - Log -INFO - successfully login in to homepage
+2019-09-22 14:56:03,254 - Log -INFO - orange hrm launched successfully
+2019-09-22 14:56:03,380 - Log -INFO - logo image display status :true
+2019-09-22 14:56:03,411 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 14:56:05,266 - Log -INFO - entered username and password
+2019-09-22 14:56:15,300 - Log -INFO - successfully login in to homepage
+2019-09-22 14:56:45,122 - Log -INFO - orange hrm launched successfully
+2019-09-22 14:56:45,200 - Log -INFO - logo image display status :true
+2019-09-22 14:56:45,230 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 14:56:47,139 - Log -INFO - entered username and password
+2019-09-22 14:56:57,174 - Log -INFO - successfully login in to homepage
+2019-09-22 15:01:51,030 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:03:11,040 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:15:12,923 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:15:13,011 - Log -INFO - logo image display status :true
+2019-09-22 15:15:13,037 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:15:57,470 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:15:57,597 - Log -INFO - logo image display status :true
+2019-09-22 15:15:57,624 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:16:50,559 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:16:50,678 - Log -INFO - logo image display status :true
+2019-09-22 15:16:50,709 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:18:26,670 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:18:26,795 - Log -INFO - logo image display status :true
+2019-09-22 15:18:26,825 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:20:03,656 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:20:03,877 - Log -INFO - logo image display status :true
+2019-09-22 15:20:03,916 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:24:29,346 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:24:29,437 - Log -INFO - logo image display status :true
+2019-09-22 15:24:29,459 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:25:37,804 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:25:37,901 - Log -INFO - logo image display status :true
+2019-09-22 15:25:37,926 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:26:34,860 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:26:34,934 - Log -INFO - logo image display status :true
+2019-09-22 15:26:44,022 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:26:44,044 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:30:33,465 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:30:33,549 - Log -INFO - logo image display status :true
+2019-09-22 15:30:41,739 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:30:41,762 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:33:25,904 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:33:25,988 - Log -INFO - logo image display status :true
+2019-09-22 15:33:34,529 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:33:34,581 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:35:19,850 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:35:19,925 - Log -INFO - logo image display status :true
+2019-09-22 15:35:29,353 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:35:29,378 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:36:25,783 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:36:25,856 - Log -INFO - logo image display status :true
+2019-09-22 15:36:34,727 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:36:34,749 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:39:58,922 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:39:59,005 - Log -INFO - logo image display status :true
+2019-09-22 15:40:07,746 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:40:08,023 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:41:15,970 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:41:16,038 - Log -INFO - logo image display status :true
+2019-09-22 15:41:25,245 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:41:25,273 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:43:28,751 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:43:28,883 - Log -INFO - logo image display status :true
+2019-09-22 15:43:38,130 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:43:38,148 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:47:40,357 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:47:40,504 - Log -INFO - logo image display status :true
+2019-09-22 15:47:49,417 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:47:49,445 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:49:20,750 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:49:20,845 - Log -INFO - logo image display status :true
+2019-09-22 15:49:20,870 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:52:02,185 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:52:02,291 - Log -INFO - logo image display status :true
+2019-09-22 15:52:02,316 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:54:17,923 - Log -INFO - orange hrm launched successfully
+2019-09-22 15:54:18,026 - Log -INFO - logo image display status :true
+2019-09-22 15:54:18,060 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 15:54:19,115 - Log -INFO - entered username and password
+2019-09-22 15:54:29,158 - Log -INFO - failed to login to homepage
+2019-09-22 15:54:30,390 - Log -INFO - entered username and password
+2019-09-22 15:54:40,409 - Log -INFO - successfully login in to homepage
+2019-09-22 16:04:12,383 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:04:12,468 - Log -INFO - logo image display status :true
+2019-09-22 16:04:12,496 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 16:04:13,670 - Log -INFO - entered username and password
+2019-09-22 16:04:23,704 - Log -INFO - failed to login to homepage
+2019-09-22 16:04:25,380 - Log -INFO - entered username and password
+2019-09-22 16:04:35,415 - Log -INFO - successfully login in to homepage
+2019-09-22 16:04:35,890 - Log -INFO - entered username and password
+2019-09-22 16:04:45,928 - Log -INFO - failed to login to homepage
+2019-09-22 16:15:39,195 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:15:41,161 - Log -INFO - successfully opened homePage of admin
+2019-09-22 16:15:50,359 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:15:53,516 - Log -INFO - successfully opened  admin
+2019-09-22 16:16:02,500 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:16:05,451 - Log -INFO - successfully opened pim
+2019-09-22 16:16:13,598 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:16:18,043 - Log -INFO - successfully opened recruitement
+2019-09-22 16:21:31,319 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:21:31,398 - Log -INFO - logo image display status :true
+2019-09-22 16:21:31,433 - Log -INFO - loginpage successfully validate of page title
+2019-09-22 16:21:32,410 - Log -INFO - entered username and password
+2019-09-22 16:21:42,450 - Log -INFO - failed to login to homepage
+2019-09-22 16:21:43,916 - Log -INFO - entered username and password
+2019-09-22 16:21:53,952 - Log -INFO - successfully login in to homepage
+2019-09-22 16:21:54,420 - Log -INFO - entered username and password
+2019-09-22 16:22:04,455 - Log -INFO - failed to login to homepage
+2019-09-22 16:23:15,370 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:23:15,448 - Log -INFO - logo image display status :true
+2019-09-22 16:23:22,427 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:23:24,398 - Log -INFO - successfully opened homePage 
+2019-09-22 16:23:33,820 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:23:36,887 - Log -INFO - successfully opened  admin
+2019-09-22 16:23:40,563 - Log -INFO - entered username and password
+2019-09-22 16:23:51,903 - Log -INFO - entered username and password
+2019-09-22 16:24:07,600 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:24:10,445 - Log -INFO - successfully opened pim
+2019-09-22 16:24:19,336 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:24:22,342 - Log -INFO - successfully opened recruitement
+2019-09-22 16:27:26,629 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:27:26,730 - Log -INFO - logo image display status :true
+2019-09-22 16:27:33,404 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:27:35,022 - Log -INFO - successfully opened homePage 
+2019-09-22 16:27:44,672 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:27:47,807 - Log -INFO - successfully opened  admin
+2019-09-22 16:27:51,774 - Log -INFO - entered username and password
+2019-09-22 16:27:58,110 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:28:01,248 - Log -INFO - successfully opened pim
+2019-09-22 16:28:05,630 - Log -INFO - entered username and password
+2019-09-22 16:28:21,265 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:28:24,613 - Log -INFO - successfully opened recruitement
+2019-09-22 16:35:08,243 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:35:14,601 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:35:16,616 - Log -INFO - successfully opened homePage 
+2019-09-22 16:35:21,352 - Log -INFO - logo image display status :true
+2019-09-22 16:35:50,028 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:35:56,371 - Log -INFO - orange hrm launched successfully
+2019-09-22 16:35:58,581 - Log -INFO - successfully opened homePage 
+2019-09-22 16:36:02,506 - Log -INFO - logo image display status :true
+2019-09-22 19:46:59,909 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:47:02,235 - Log -INFO - successfully opened homePage 
+2019-09-22 19:47:11,915 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:47:15,490 - Log -INFO - successfully opened  admin
+2019-09-22 19:47:24,391 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:47:27,833 - Log -INFO - successfully opened pim
+2019-09-22 19:47:37,308 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:47:41,510 - Log -INFO - successfully opened recruitement
+2019-09-22 19:47:49,577 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:47:51,367 - Log -INFO - add employee button click
+2019-09-22 19:47:59,731 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:50:45,999 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:50:47,841 - Log -INFO - successfully opened homePage 
+2019-09-22 19:50:57,185 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:51:00,222 - Log -INFO - successfully opened  admin
+2019-09-22 19:51:08,566 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:51:11,712 - Log -INFO - successfully opened pim
+2019-09-22 19:51:19,982 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:51:22,760 - Log -INFO - successfully opened recruitement
+2019-09-22 19:51:32,250 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:51:33,767 - Log -INFO - add employee button click
+2019-09-22 19:51:51,676 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:53:52,078 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:53:53,874 - Log -INFO - successfully opened homePage 
+2019-09-22 19:54:02,835 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:54:05,677 - Log -INFO - successfully opened  admin
+2019-09-22 19:54:14,876 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:54:17,817 - Log -INFO - successfully opened pim
+2019-09-22 19:54:25,948 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:54:28,863 - Log -INFO - successfully opened recruitement
+2019-09-22 19:54:36,930 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:55:05,961 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:58:50,075 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:58:51,548 - Log -INFO - successfully opened homePage 
+2019-09-22 19:59:00,145 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:59:02,962 - Log -INFO - successfully opened  admin
+2019-09-22 19:59:10,979 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:59:14,044 - Log -INFO - successfully opened pim
+2019-09-22 19:59:22,943 - Log -INFO - orange hrm launched successfully
+2019-09-22 19:59:25,823 - Log -INFO - successfully opened recruitement
+2019-09-22 19:59:33,904 - Log -INFO - orange hrm launched successfully
+2019-09-22 20:00:05,754 - Log -INFO - successfully opened add employee
+2019-09-22 20:00:13,771 - Log -INFO - orange hrm launched successfully
+2019-09-22 20:00:26,543 - Log -INFO - successfully opened employeelist
+2019-09-23 16:39:02,254 - Log -INFO - orange hrm launched successfully
+2019-09-23 16:41:41,271 - Log -INFO - orange hrm launched successfully
+2019-09-23 16:42:56,386 - Log -INFO - orange hrm launched successfully
+2019-09-23 16:45:18,008 - Log -INFO - orange hrm launched successfully
+2019-09-23 16:47:09,981 - Log -INFO - orange hrm launched successfully
+2019-09-23 21:36:11,005 - Log -INFO - orange hrm launched successfully
+2019-09-23 21:44:14,236 - Log -INFO - orange hrm launched successfully
+2019-09-23 21:49:21,967 - Log -INFO - orange hrm launched successfully
+2019-09-23 21:52:08,808 - Log -INFO - orange hrm launched successfully
+2019-09-23 21:52:41,082 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:00:31,805 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:01:09,494 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:06:18,532 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:06:36,502 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:08:44,788 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:08:44,871 - Log -INFO - logo image display status :true
+2019-09-23 22:08:44,903 - Log -INFO - loginpage successfully validate of page title
+2019-09-23 22:08:46,173 - Log -INFO - entered username and password
+2019-09-23 22:08:56,213 - Log -INFO - failed to login to homepage
+2019-09-23 22:08:57,808 - Log -INFO - entered username and password
+2019-09-23 22:09:07,849 - Log -INFO - successfully login in to homepage
+2019-09-23 22:09:08,476 - Log -INFO - entered username and password
+2019-09-23 22:10:39,960 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:10:57,910 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:12:27,679 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:12:45,171 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:15:35,059 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:15:53,277 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:34:20,794 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:34:48,891 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:37:11,546 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:39:15,859 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:39:43,758 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:43:44,565 - Log -INFO - orange hrm launched successfully
+2019-09-23 22:44:12,237 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 22:59:56,768 - Log -INFO - orange hrm launched successfully
+2019-09-23 23:00:24,869 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-23 23:02:50,162 - Log -INFO - orange hrm launched successfully
+2019-09-23 23:03:17,717 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-24 11:29:46,428 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:29:58,080 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:30:56,322 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:31:17,519 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:37:11,230 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:37:32,639 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:55:00,172 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:55:21,761 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:56:38,776 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:56:58,586 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:59:15,065 - Log -INFO - orange hrm launched successfully
+2019-09-24 11:59:36,131 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:02:49,272 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:03:11,018 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:08:50,660 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:09:11,065 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:16:59,260 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:17:20,860 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:21:30,005 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:21:50,174 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:23:02,685 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:23:23,337 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:28:16,965 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:28:37,371 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:31:26,524 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:31:46,820 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:33:02,248 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:33:22,175 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:34:42,806 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:35:03,949 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:36:12,824 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:36:33,113 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:39:53,214 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:40:15,905 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:41:15,531 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:41:34,965 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:50:14,775 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:50:35,269 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:51:43,249 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:52:04,284 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:56:50,619 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:57:15,358 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:59:35,057 - Log -INFO - orange hrm launched successfully
+2019-09-24 12:59:55,867 - Log -INFO - orange hrm launched successfully
+2019-09-24 13:06:24,197 - Log -INFO - orange hrm launched successfully
+2019-09-24 13:06:47,216 - Log -INFO - orange hrm launched successfully
+2019-09-24 13:09:12,971 - Log -INFO - orange hrm launched successfully
+2019-09-24 13:09:34,096 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:10:56,828 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:11:19,616 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:15:23,812 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:15:44,323 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:17:11,770 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:17:33,303 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:19:10,073 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:19:30,048 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:23:43,979 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:24:05,297 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:26:50,206 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:27:11,389 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:29:59,544 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:30:20,815 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:38:36,248 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:38:57,159 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:44:16,546 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:44:37,318 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:51:28,621 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:51:49,896 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:54:08,526 - Log -INFO - orange hrm launched successfully
+2019-09-24 21:54:30,565 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:03:18,281 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:03:45,742 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-24 22:16:18,420 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:16:46,101 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-24 22:16:54,972 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:17:26,786 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:17:58,884 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:18:28,466 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:36:48,973 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:37:16,003 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-24 22:37:25,144 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:37:55,617 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:38:25,977 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:38:56,415 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:41:28,009 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:41:55,125 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-24 22:42:03,903 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:42:34,490 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:43:04,600 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:43:35,374 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:58:04,407 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:58:31,757 - Log -INFO - successfully  addemplyeepage opened:
+2019-09-24 22:58:41,704 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:59:13,467 - Log -INFO - orange hrm launched successfully
+2019-09-24 22:59:44,507 - Log -INFO - orange hrm launched successfully
+2019-09-24 23:00:16,354 - Log -INFO - orange hrm launched successfully
+2019-11-05 22:58:55,104 - Log -INFO - orange hrm launched successfully
+2019-11-05 22:59:11,629 - Log -INFO - orange hrm launched successfully
+2019-11-05 22:59:16,643 - Log -INFO - successfully opened  admin
+2019-11-05 22:59:25,627 - Log -INFO - orange hrm launched successfully
+2019-11-05 22:59:30,394 - Log -INFO - successfully opened pim
+2019-11-05 22:59:39,300 - Log -INFO - orange hrm launched successfully
+2019-11-05 22:59:43,640 - Log -INFO - successfully opened recruitement
+2019-11-05 23:05:41,463 - Log -INFO - orange hrm launched successfully
+2019-11-05 23:05:43,618 - Log -INFO - successfully opened homePage 
+2019-11-05 23:05:44,750 - Log -INFO - successfully opened  admin
+2019-11-05 23:05:45,885 - Log -INFO - successfully opened pim
+2019-11-05 23:05:46,948 - Log -INFO - successfully opened recruitement
+2019-11-05 23:06:18,183 - Log -INFO - successfully opened add employee
+2019-11-05 23:06:28,997 - Log -INFO - successfully opened employeelist
+2019-11-07 18:01:28,667 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:02:05,941 - Log -INFO - successfully opened add employee
+2019-11-07 18:02:18,094 - Log -INFO - successfully opened employeelist
+2019-11-07 18:19:05,075 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:19:09,743 - Log -INFO - successfully opened homePage 
+2019-11-07 18:19:29,741 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:19:38,770 - Log -INFO - successfully opened  admin
+2019-11-07 18:19:48,960 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:19:52,708 - Log -INFO - successfully opened pim
+2019-11-07 18:20:01,713 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:20:07,131 - Log -INFO - successfully opened recruitement
+2019-11-07 18:20:15,952 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:20:35,929 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:20:48,928 - Log -INFO - successfully opened employeelist
+2019-11-07 18:26:27,732 - Log -INFO - orange hrm launched successfully
+2019-11-07 18:26:29,642 - Log -INFO - successfully opened homePage 
+2019-11-07 18:26:30,984 - Log -INFO - successfully opened  admin
+2019-11-07 18:26:31,817 - Log -INFO - successfully opened pim
+2019-11-07 18:26:33,020 - Log -INFO - successfully opened recruitement
+2019-11-07 18:27:03,777 - Log -INFO - successfully opened add employee
+2019-11-07 18:27:14,697 - Log -INFO - successfully opened employeelist
+2019-12-12 11:35:56,830 - Log -INFO - orange hrm launched successfully
+2019-12-12 11:35:57,112 - Log -INFO - logo image display status :true
+2019-12-12 11:35:57,193 - Log -INFO - loginpage successfully validate of page title
+2019-12-12 11:40:00,643 - Log -INFO - orange hrm launched successfully
+2019-12-12 11:41:01,474 - Log -INFO - orange hrm launched successfully
+2019-12-12 11:41:03,059 - Log -INFO - successfully opened homePage 
+2019-12-12 11:41:17,608 - Log -INFO - successfully opened pim
+2019-12-12 11:41:22,939 - Log -INFO - successfully opened recruitement
+2019-12-12 11:41:53,991 - Log -INFO - successfully opened add employee
+2019-12-12 11:42:04,813 - Log -INFO - successfully opened employeelist
+2019-12-12 11:43:50,487 - Log -INFO - orange hrm launched successfully
+2019-12-12 11:43:52,820 - Log -INFO - successfully opened homePage 
+2019-12-12 11:43:54,268 - Log -INFO - successfully opened  admin
+2019-12-12 11:43:59,691 - Log -INFO - successfully opened pim
+2019-12-12 11:44:02,374 - Log -INFO - successfully opened recruitement
+2019-12-12 11:44:33,192 - Log -INFO - successfully opened add employee
+2019-12-12 11:44:44,144 - Log -INFO - successfully opened employeelist
+2019-12-12 14:08:02,181 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:08:30,256 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 14:08:39,112 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:09:09,835 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:09:39,923 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:10:10,805 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:23:20,853 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:23:44,986 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 14:23:54,240 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:24:20,874 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:24:41,936 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:25:08,040 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:30:56,255 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:31:18,605 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 14:31:27,640 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:31:52,847 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:32:18,146 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:32:44,450 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:43:10,631 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:43:33,386 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 14:43:42,749 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:44:11,314 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:44:40,079 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:45:07,882 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:46:21,355 - Log -INFO - orange hrm launched successfully
+2019-12-12 14:46:43,755 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 15:19:48,448 - Log -INFO - orange hrm launched successfully
+2019-12-12 15:20:11,631 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 15:21:10,639 - Log -INFO - orange hrm launched successfully
+2019-12-12 15:21:34,111 - Log -INFO - successfully  addemplyeepage opened:
+2019-12-12 15:24:27,608 - Log -INFO - orange hrm launched successfully
+2019-12-12 15:24:50,429 - Log -INFO - successfully  addemplyeepage opened:

@@ -8,8 +8,6 @@ import com.Basetest.BaseTest;
 import com.Utilities.TestDataProvider;
 import com.Webpages.HomePage;
 
-
-
 public class HomePageTest extends BaseTest
 {
 	HomePage homePage;
@@ -104,7 +102,5 @@ public class HomePageTest extends BaseTest
 		public Object[][] get()
 		{
 			return TestDataProvider.getTestdatasheet("NewtourRegister");
-		}
-		
-		
+		}	
 }
